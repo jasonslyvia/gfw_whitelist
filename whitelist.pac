@@ -17,7 +17,7 @@
      *                                                 *
      * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-var IP_ADDRESS = 'www.abc.com:443'; // Need to change to a real address!!
+var IP_ADDRESS = '10.23.8.125:3128'; // Need to change to a real address!!
 
     /* * * * * * * * * * * * * * * * * * * * * * * * * * 
      *                                                 *
